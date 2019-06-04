@@ -1,4 +1,4 @@
-# Automation priority: 6
+# Automation priority: 666
 # Automation status: TRANSMITTED
 # Test case importance: VERY_HIGH
 # language: fr

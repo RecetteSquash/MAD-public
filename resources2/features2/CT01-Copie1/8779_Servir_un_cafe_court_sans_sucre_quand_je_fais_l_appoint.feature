@@ -1,5 +1,5 @@
 # Automation priority: 123
-# Automation status: WORK_IN_PROGRESS
+# Automation status: TRANSMITTED
 # Test case importance: HIGH
 # language: fr
 Fonctionnalité: Servir un café court sans sucre quand je fais l'appoint

@@ -1,5 +1,5 @@
 # Automation priority: 6
-# Automation status: WORK_IN_PROGRESS
+# Automation status: TRANSMITTED
 # Test case importance: LOW
 # language: fr
 Fonctionnalité: Servir un café
