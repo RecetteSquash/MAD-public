@@ -1,6 +1,6 @@
-# Automation priority: 0
+# Automation priority: null
 # Automation status: TRANSMITTED
-# Test case importance: MEDIUM
+# Test case importance: LOW
 # language: fr
 Fonctionnalité: Servir un café court en deux fois
   
