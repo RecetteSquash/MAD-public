@@ -1,9 +1,9 @@
-# Automation priority:2
-# Test case importance:Low
-# language: en
-Feature:test BDD
+# Priorité d'automatisation:2
+# Importance du cas de test:Faible
+# language: fr
+Fonctionnalité:test BDD
 
-	Scenario:test BDD
-		Given j'ai 3 concombres
-		When je mange 1 concombre
-		Then j'ai 2 concombres
+	Scénario:test BDD
+		Étant donné que j'ai 3 concombres
+		Quand je mange 1 concombre
+		Alors j'ai 2 concombres
